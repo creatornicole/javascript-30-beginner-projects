@@ -6,6 +6,7 @@ Reference: [30 Days, 30 JavaScript Projects For Beginners to Practice](https://w
 |-----|------|-----------|---------|
 | 1   | 12/04/2024 | randomPwd | Generate a Random Password Using JavaScript |
 | 2   | 16/04/2024 | dragDrop  | Create Drag & Drop Using HTML CSS And JavaScript |
+| 3   | 23/04/2024 | toastNotification | Make Toast Notification or Snack Bar For Website Using HTML CSS JavaScript |
 
 ## Learnings
 ### General
